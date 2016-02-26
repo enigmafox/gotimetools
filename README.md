@@ -77,7 +77,7 @@ func main() {
 | `%v` | Milli-seconds with leading decimal | *.000* |
 
 ## Other methods
-There are a few other methods included in the the package.
+There are a few other methods included in the package.
 
 ### DaysInMonth and DaysInMonthT
 `DaysInMonth` and `DaysInMonthT` return the number of days in a given month.
